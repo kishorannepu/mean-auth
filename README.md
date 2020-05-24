@@ -45,6 +45,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 `ng g m login --routing`
 
 ## generate sign-in componet
-ng g c login/sign-in
+`ng g c login/sign-in`
 
 
